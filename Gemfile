@@ -53,8 +53,8 @@ gem 'bootsnap', require: false
 gem 'devise'
 gem 'rubocop', require: false
 gem 'simple_form'
+gem 'sass-rails'
 gem 'pundit'
-
 
 group :development, :test do
   # See https://guides.rubyonrails.org/debugging_rails_applications.html#debugging-with-the-debug-gem
